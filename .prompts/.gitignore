@@ -1,0 +1,10 @@
+# Conversation logs (archived by pre-commit hook)
+*.md
+
+# Images (archived with conversations)
+images/
+
+# Temporary state files
+.conversation-tracker-*.json
+.file-edits-*.json
+.image-state-*.json
